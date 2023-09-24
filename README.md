@@ -1,0 +1,6 @@
+# BMICalculator![1](https://github.com/MaharramSadikhli/BMICalculator/assets/104587536/cef7e93f-36d8-44d0-a944-3a281cfacbcb)
+![2](https://github.com/MaharramSadikhli/BMICalculator/assets/104587536/6be4f30e-ab39-47b1-9156-80b48ba21911)
+![3](https://github.com/MaharramSadikhli/BMICalculator/assets/104587536/22e7133f-9ef9-4791-81e7-2c29131e7e4c)
+![4](https://github.com/MaharramSadikhli/BMICalculator/assets/104587536/c4196190-3aeb-4866-80e9-941805a3f2c8)
+![5](https://github.com/MaharramSadikhli/BMICalculator/assets/104587536/db7bdcb0-d1b9-455c-ad22-e00e470cd428)
+![6](https://github.com/MaharramSadikhli/BMICalculator/assets/104587536/3106b561-d8ce-4a99-9ca5-0b989d0249d6)
